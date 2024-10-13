@@ -1,1 +1,1 @@
-nachox-crypto.github.io
+https://www.nachox-crypto.github.io
